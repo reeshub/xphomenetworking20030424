@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+Sitemap: http://xphomenetworking.retromirror.org/sitemap.xml
+Sitemap: http://xphomenetworking.retromirror.org/sitemap-image.xml

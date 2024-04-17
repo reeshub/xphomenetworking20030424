@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://xphomenetworking.retromirror.org/book/buy.html</loc>
+    <lastmod>2024-04-17T20:13:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/banner_bottom.gif</image:loc>
+      <image:title>banner bottom</image:title>
+      <image:caption>banner_bottom.gif - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/banner_top2.gif</image:loc>
+      <image:title>banner top2</image:title>
+      <image:caption>banner_top2.gif - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/middle_fill.gif</image:loc>
+      <image:title>middle fill</image:title>
+      <image:caption>middle_fill.gif - 0 kilobyte</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://xphomenetworking.retromirror.org/book/index.html</loc>
+    <lastmod>2024-04-17T20:11:07+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/book/images/winxp_launch_04_037_sm.jpg</image:loc>
+      <image:title>winxp launch 04 037 sm</image:title>
+      <image:caption>winxp_launch_04_037_sm.jpg - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/book/images/winxp_launch_04_037.jpg</image:loc>
+      <image:title>winxp launch 04 037</image:title>
+      <image:caption>winxp_launch_04_037.jpg - 0 kilobyte</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://xphomenetworking.retromirror.org/index.html</loc>
+    <lastmod>2024-04-17T20:12:15+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/mira_preview_promo.gif</image:loc>
+      <image:title>mira preview promo</image:title>
+      <image:caption>mira_preview_promo.gif - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/freestyle_xp_promo.gif</image:loc>
+      <image:title>freestyle xp promo</image:title>
+      <image:caption>freestyle_xp_promo.gif - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/xp_sp1_promo.gif</image:loc>
+      <image:title>xp sp1 promo</image:title>
+      <image:caption>xp_sp1_promo.gif - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/nw_experience.JPG</image:loc>
+      <image:title>nw experience</image:title>
+      <image:caption>nw_experience.JPG - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/winxp_logon.JPG</image:loc>
+      <image:title>winxp logon</image:title>
+      <image:caption>winxp_logon.JPG - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/mark_headphones.jpg</image:loc>
+      <image:title>mark headphones</image:title>
+      <image:caption>mark_headphones.jpg - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/paul.JPG</image:loc>
+      <image:title>paul</image:title>
+      <image:caption>paul.JPG - 0 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/images/xpdigmedia_bookcover.gif</image:loc>
+      <image:title>xpdigmedia bookcover</image:title>
+      <image:caption>xpdigmedia_bookcover.gif - 0 kilobyte</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://xphomenetworking.retromirror.org/paul/index.html</loc>
+    <lastmod>2024-04-17T20:14:31+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>http://xphomenetworking.retromirror.org/paul/images/paul_2000.jpg</image:loc>
+      <image:title>paul 2000</image:title>
+      <image:caption>paul_2000.jpg - 0 kilobyte</image:caption>
+    </image:image>
+  </url>
+</urlset>
